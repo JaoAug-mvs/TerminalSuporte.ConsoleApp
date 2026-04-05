@@ -1,0 +1,14 @@
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.exe
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.deps.json
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.runtimeconfig.json
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.dll
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.pdb
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.AssemblyInfoInputs.cache
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.AssemblyInfo.cs
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.csproj.CoreCompileInputs.cache
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.dll
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\refint\TerminalSuporte.ConsoleApp.dll
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.pdb
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.genruntimeconfig.cache
+Z:\Facul\Cux\L2\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\ref\TerminalSuporte.ConsoleApp.dll
